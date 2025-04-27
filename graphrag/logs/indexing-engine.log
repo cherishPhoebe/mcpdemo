@@ -1,0 +1,23 @@
+10:26:53,301 graphrag.cli.index INFO Logging enabled at F:\midnight\MCP\mcpdemo\graphrag\logs\indexing-engine.log
+10:27:45,125 graphrag.cli.index INFO Logging enabled at F:\midnight\MCP\mcpdemo\graphrag\logs\indexing-engine.log
+10:28:09,635 openai._base_client INFO Retrying request to /chat/completions in 0.421238 seconds
+10:28:31,112 openai._base_client INFO Retrying request to /chat/completions in 0.768086 seconds
+10:28:52,914 openai._base_client INFO Retrying request to /chat/completions in 1.605475 seconds
+10:29:15,549 openai._base_client INFO Retrying request to /chat/completions in 3.414306 seconds
+10:29:40,26 openai._base_client INFO Retrying request to /chat/completions in 6.115802 seconds
+10:30:07,170 openai._base_client INFO Retrying request to /chat/completions in 7.238742 seconds
+10:30:35,474 openai._base_client INFO Retrying request to /chat/completions in 7.875043 seconds
+10:31:04,389 openai._base_client INFO Retrying request to /chat/completions in 7.259355 seconds
+10:31:32,684 openai._base_client INFO Retrying request to /chat/completions in 6.133337 seconds
+10:31:59,859 openai._base_client INFO Retrying request to /chat/completions in 7.258467 seconds
+13:40:26,315 graphrag.cli.index INFO Logging enabled at F:\midnight\MCP\mcpdemo\graphrag\logs\indexing-engine.log
+13:40:28,703 openai._base_client INFO Retrying request to /chat/completions in 0.494248 seconds
+13:40:31,327 openai._base_client INFO Retrying request to /chat/completions in 0.914105 seconds
+13:40:40,350 openai._base_client INFO Retrying request to /chat/completions in 1.616532 seconds
+13:40:44,92 openai._base_client INFO Retrying request to /chat/completions in 3.519041 seconds
+13:40:49,689 openai._base_client INFO Retrying request to /chat/completions in 7.592895 seconds
+13:40:59,420 openai._base_client INFO Retrying request to /chat/completions in 7.303913 seconds
+13:41:08,847 openai._base_client INFO Retrying request to /chat/completions in 7.754996 seconds
+13:41:24,733 openai._base_client INFO Retrying request to /chat/completions in 6.412446 seconds
+13:41:39,262 openai._base_client INFO Retrying request to /chat/completions in 7.990433 seconds
+13:42:08,318 openai._base_client INFO Retrying request to /chat/completions in 7.609195 seconds
